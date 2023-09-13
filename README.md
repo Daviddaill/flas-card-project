@@ -1,8 +1,8 @@
-# Redux News Reader
+# Flash Cards
 
-Redux News Reader is an application that allows you to view full articles from a list of article previews. For each article, you can access its comments section and even contribute your own comments.
+Redux News Reader is an application that allows you to create Topics, Quizzes and Cards for each quizz.
 
-![preview](https://github.com/Daviddaill/Redux-News-Reader/blob/main/src/img/overview.png?raw=true)
+![preview](https://github.com/Daviddaill/flash-card-project/blob/main/src/images/preview.png?raw=true)
 
 ## Features
 
